@@ -9,3 +9,33 @@
 - B
 - C
 ## sssss
+
+## git command
+
+```
+$ git status
+```
+
+```
+$ git add filename
+```
+
+```
+$ git commit -m 
+```
+
+```
+$ git push
+```
+
+```
+$ git branch -a
+```
+
+```
+$ git checkout branchname
+```
+
+```
+$ git checkout filename
+```
