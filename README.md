@@ -39,3 +39,15 @@ $ git checkout branchname
 ```
 $ git checkout filename
 ```
+
+```
+$ git merge master
+```
+
+```
+$ git fetch --prune
+```
+
+```
+$ git remote prune origin
+```
