@@ -51,3 +51,7 @@ $ git fetch --prune
 ```
 $ git remote prune origin
 ```
+
+```
+$ git branch -D bracnhname
+```
